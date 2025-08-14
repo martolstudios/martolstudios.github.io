@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.37",              // ultima versione disponibile sullo store
+  "latestVersion": "1.38",              // ultima versione disponibile sullo store
   "minSupportedVersion": "1.37",        // sotto questa forziamo l'aggiornamento
   "force": false,                       // opzionale: forza update anche se >= min
   "changelog": "Minor bug fixes and improvements",
