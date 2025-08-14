@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.36",              // ultima versione disponibile sullo store
-  "minSupportedVersion": "1.36",        // sotto questa forziamo l'aggiornamento
+  "minSupportedVersion": "1.35",        // sotto questa forziamo l'aggiornamento
   "force": false,                       // opzionale: forza update anche se >= min
   "changelog": "• Fix banner\n• Miglioramenti UI",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.martolstudios.hungryhead",
