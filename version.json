@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.48",              // ultima versione disponibile sullo store
+  "latestVersion": "1.50",              // ultima versione disponibile sullo store
   "minSupportedVersion": "1.47",        // sotto questa forziamo l'aggiornamento
   "force": false,                       // opzionale: forza update anche se >= min
-  "changelog": "Minor bug fixes and improvements",
+  "changelog": "",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.martolstudios.hungryhead",
   "iosStoreUrl": "https://apps.apple.com/app/id0000000000"
 }
