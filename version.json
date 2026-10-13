@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.59",              // ultima versione disponibile sullo store
-  "minSupportedVersion": "1.58",        // sotto questa forziamo l'aggiornamento
+  "latestVersion": "2.00",              // ultima versione disponibile sullo store
+  "minSupportedVersion": "2.00",        // sotto questa forziamo l'aggiornamento
   "force": false,                       // opzionale: forza update anche se >= min
   "changelog": "",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.martolstudios.hungryhead",
